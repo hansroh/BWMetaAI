@@ -1,4 +1,4 @@
-use_build_vs(Zerg, Protoss)
+use_build_vs(Zerg, Protoss, Terran)
 build_weight(.25)
 
 8 Pylon

@@ -1,4 +1,4 @@
-use_build_vs(Protoss)
+use_build_vs(Protoss, Terran)
 8 Pylon
 10 Gateway
 12 Gas

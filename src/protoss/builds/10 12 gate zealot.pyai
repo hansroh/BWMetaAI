@@ -1,4 +1,4 @@
-use_build_vs(Zerg, Protoss)
+use_build_vs(Zerg, Protoss, Terran)
 build_weight(.5)
 8 Pylon
 10 Gateway
