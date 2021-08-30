@@ -15,7 +15,7 @@ build_start(2, Protoss Pylon, 80)
 wait_force(1, Zealot)
 attack_add(1, Zealot)
 if random(192):
-   attack_async()
+    attack_async()
 
 wait_build(1, Cybernetics Core)
 upgrade(1, Singularity Charge, 150)
